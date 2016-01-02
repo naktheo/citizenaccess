@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="app_name">CitizenAccess</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="send_now">SEND</string>
+        <string name="next">NEXT</string>
+    
+    <string name="cert">Όνομα Πιστοποιητικού</string>
+    <string name="service">Υπηρεσία</string>
+    <string name="username">Username</string>
+    <string name="sendsafe">Ασφαλή Αποστολή</string>
+    <string name="REGISTER">Eγγραφή</string>
+    <string name="name">Όνομα</string>
+    <string name="lastname">Επίθετο</string>
+    <string name="email">email</string>
+    <string name="pass">Kωδικός</string>
+    <string name="error"></string>
+        <string name="thema">Θέμα</string>
+        <string name="message">Παρακαλώ γράψτε το ερώτημά σας...</string>
+                <string name="minima">Μήνυμα</string>
+                    <string name="apan">Απάντηση</string>
+                
+        
+        
+ 
+    
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Προσωπικά Στοιχεία</item>
+        <item >Δημιουργια Αιτησεις</item>
+        <item >Tα αρχεία μου</item>
+        <item >Αποστολή αρχείου</item>
+        <item >Αποστολή μηνύματος</item>
+        <item >About</item>
+       
+    </string-array>
+     
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_request</item>
+        <item>@drawable/ic_files</item>
+        <item>@drawable/ic_action_attachment</item>
+        <item>@drawable/ic_action_email</item>
+        <item>@drawable/ic_about</item>
+        
+    </array>
+     
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="stoixeia">
+        <item >id</item>
+        <item >Όνομα</item>
+        <item >Επίθετο</item>
+        <item >Όνομα Πατέρα</item>
+        <item >Όνομα Μητέρας</item>
+        <item >Ημ. Γέννησης</item>
+        <item >Τόπος Γέννησης</item>
+        <item >e-mail</item>
+        <item >Α.Φ.Μ.</item>
+        <item >Α.Μ.Κ.Α</item>
+        <item >Αριθμός Ταυτότητας</item>
+        
+        
+       
+    </string-array>
+    
+    <string-array name="list_egg">
+        <item >Χορήγηση πιστοποιητικού οικογενειακής κατάστασης </item>
+        <item >Χορήγηση αντιγράφου πιστοποιητικού γέννησης </item>
+        <item >Βεβαίωση καταβολής εισφορών για φορολογική χρήση από ΟΑΕΕ-ΤΕΒΕ </item>
+        <item >Χορήγηση πιστοποιητικού εντοπιότητας </item>
+        <item >Βεβαίωση χορήγησης επιδόματος καυσίμων </item>
+        <item >Αντίγραφο πιστοποιητικού σπουδών</item>
+        <item >Απόσπασμα ατομικού λογαριασμού ΙΚΑ </item>
+        <item>Χορήγηση βεβαίωσης οικογενειακής κατάστασης (Εθνικό Δημοτολόγιο) </item>
+        <item>Βεβαίωση καταβολής αποζημιώσεων ΕΛΓΑ στους παραγωγούς </item>
+        <item>Χορήγηση βεβαίωσης γέννησης (Εθνικό Δημοτολόγιο) </item>
+        <item>Χορήγηση αντιγράφου ληξιαρχικής πράξης γέννησης (Ειδικό Ληξιαρχείο) </item>
+        <item>Χορήγηση αντιγράφου ληξιαρχικής πράξης γάμου (Ειδικό Ληξιαρχείο) </item>
+        <item>Βεβαίωση καταβολής αποζημιώσεων ΕΛΓΑ στους παραγωγούς </item>
+        <item>Χορήγηση ανάλυσης αποζημιώσεων ΕΛΓΑ που καταβλήθηκαν στους παραγωγούς</item>
+        <item>Χορήγηση αντιγράφου ληξιαρχικής πράξης γάμου (Ειδικό Ληξιαρχείο)</item>
+        <item>Χορήγηση αντιγράφου ληξιαρχικής πράξης γέννησης (Ειδικό Ληξιαρχείο)</item>
+        <item>Χορήγηση αντιγράφου ληξιαρχικής πράξης θανάτου (Ειδικό Ληξιαρχείο)</item>
+        <item>Χορήγηση βεβαίωσης ασφαλιστικής ενημερότητας (για επιχειρήσεις - εργοδότες)</item>
+        <item>Χορήγηση βεβαίωσης ιθαγένειας (Εθνικό Δημοτολόγιο)</item>
+        <item>Χορήγηση βεβαίωσης οικογενειακής κατάστασης (Εθνικό Δημοτολόγιο)</item>
+    </string-array>
+    
+    <string-array name="list_yp">
+        <item >Αθήνα,Αττική</item>
+        <item >Θεσσαλονίκη,Κεντρική Μακεδονία</item>
+        <item >Πειραιάς, Αττική</item>
+        <item >Πάτρα, Δυτική Ελλάδα</item>
+        <item >Περιστέρι, Αττική</item>
+        <item >Ηράκλειο, Κρήτη</item>
+        <item >Λάρισα, Θεσσαλία</item>
+        <item >Καλλιθέα, Αττική</item>
+         <item >Νίκαια, Αττική</item>
+         <item >Καλαμαριά, Κεντρική Μακεδονία</item>
+         <item >Βόλος, Θεσσαλία</item>
+         <item >Ίλιον, Αττική</item>
+         <item >Γλυφάδα, Αττική</item>
+         <item >Ζωγράφου, Αττική</item>
+         <item >Κερατσίνι, Αττική</item>
+         <item >Ηλιούπολη, Αττική</item>
+         <item >Αιγάλεω, Αττική</item>
+         <item >Νέα Σμύρνη, Αττική</item>
+         <item >Χαλάνδρι, Αττική</item>
+         <item >Μαρούσι, Αττική</item>
+         <item >Κορυδαλλός, Αττική</item>
+         <item >Νέα Ιωνία, Αττική</item>
+         <item >Άγιος Δημήτριος, Αττική</item>
+         <item >Παλαιό Φάληρο, Αττική</item>
+         <item >Ιωάννινα, Ήπειρος</item>
+         <item >Βύρωνας, Αττική</item>
+         <item >Καβάλα,Ανατολική Μακεδονία και Θράκη</item>
+         <item >Γαλάτσι, Αττική</item>
+         <item >Αγία Παρασκευή, Αττική</item>
+         <item >Σέρρες, Κεντρική Μακεδονία</item>
+         <item >Χαλκίδα, Στερεά Ελλάδα</item>
+         <item >Χανιά, Κρήτη</item>
+          <item >Εύοσμος, Κεντρική Μακεδονία</item>
+          <item >Ρόδος, Νότιο Αιγαίο</item>
+         <item >Κατερίνη, Κεντρική Μακεδονία</item>
+         <item >Καλαμάτα, Πελοπόννησος</item>
+          <item >Αλεξανδρούπολη, Ανατολική Μακεδονία και Θράκη</item>
+          <item >Τρίκαλα, Θεσσαλία</item>
+          <item >Πετρούπολη, Αττική</item>
+          <item >Λαμία, Στερεά Ελλάδα</item>
+          <item >Ηράκλειο, Αττικής</item>
+          <item >Χαϊδάρι, Αττική</item>
+          <item >Ξάνθη, Ανατολική Μακεδονία και Θράκη</item>
+           <item >Κηφισιά, Αττική</item>
+           <item >Κομοτηνή, Ανατολική Μακεδονία και Θράκη</item>
+          <item >Βέροια, Κεντρική Μακεδονία</item>
+           <item >Δράμα, Ανατολική Μακεδονία και Θράκη</item>
+           <item >Αγρίνιο, Δυτική Ελλάδα</item>
+           <item >Συκιές, Κεντρική Μακεδονία</item>
+          <item >Σταυρούπολη, Κεντρική Μακεδονία</item>
+          <item >Αμπελόκηποι, Θεσσαλονίκης, Κεντρική Μακεδονία</item>
+          <item >Άλιμος(Καλαμάκι), Αττική</item>
+          <item >Πολίχνη, Θεσσαλονίκης, Κεντρική Μακεδονία</item>
+          <item >Κοζάνη, Δυτική Μακεδονία</item>
+          <item >Αργυρούπολη, Αττική</item>
+          <item >Άγιοι Ανάργυροι,Αττικής</item>
+          <item >Χολαργός, Αττική</item>
+          <item >Καρδίτσα, Θεσσαλία</item>
+          <item >Νέα Ιωνία Μαγνησίας, Θεσσαλία</item>
+          <item >Αγία Βαρβάρα, Αττική</item>
+          <item >Νεάπολη, Κεντρική Μακεδονία</item>
+          <item >Κόρινθος, Πελοπόννησος</item>
+          <item >Πτολεμαΐδα, Δυτική Μακεδονία</item>
+          <item >Κέρκυρα, Ιόνια Νησιά</item>
+          <item >Ρέθυμνο, Κρήτη</item>
+          <item >Ασπρόπυργος, Αττική</item>
+          <item >Μυτιλήνη, Βόρειο Αιγαίο</item>
+          <item >Μεταμόρφωση, Αττική</item>
+          <item >Άνω Λιόσια, Αττική</item>
+          <item >Καισαριανή, Αττική</item>
+          <item >Γιαννιτσά, Αττική</item>
+          <item >Ελευσίνα, Αττική</item>
+          <item >Σαλαμίνα, Αττική</item>
+          <item >Πέραμα, Αττική</item>
+          <item >Βριλήσσια, Αττική</item>
+          <item >Βούλα, Αττική</item>
+          <item >Τρίπολη, Πελοπόννησος</item>
+          <item >Άργος, Πελοπόννησος</item>
+          <item >Νέα Φιλαδέλφεια, Αττική</item>
+          <item >Χίος, Βόρειο Αιγαίο</item>
+          <item >Δάφνη, Αττική</item>
+          <item >Πύργος, Δυτική Ελλάδα</item>
+          <item >Μοσχάτο, Αττική</item>
+          <item >Μέγαρα, Αττική</item>
+          <item >Πυλαία, Κεντρική Μακεδονία</item>
+          <item >Καματερό, Αττική</item>
+          <item >Ελευθέριο, Κεντρική Μακεδονία</item>
+          <item >Θήβα, Στερεά Ελλάδα</item>
+          <item >Αίγιο, Δυτική Ελλάδα</item>
+          <item >Λιβαδειά, Στερεά Ελλάδα</item>
+          <item >Πεύκη, Αττική</item>
+          <item >Νάουσα, Κεντρική Μακεδονία</item>
+          <item >Μελίσσια, Αττική</item>
+          <item >Άρτα, Ήπειρος</item>
+          <item >Αμαλιάδα, Δυτική Ελλάδα</item>
+          <item >Έδεσσα, Κεντρική Μακεδονία</item>
+          <item >Κως, Νότιο Αιγαίο</item>
+          <item >Κιλκίς, Κεντρική Μακεδονία</item>
+          <item >Αρτέμιδα, Αττική</item>
+          <item >Ελληνικό, Αττική</item>
+          <item >Πρέβεζα, Ήπειρος</item>
+          <item >Κορωπί, Αττική</item>
+          <item >Νέα Ερυθραία, Αττική</item>
+          <item >Ορεστιάδα, Ανατολική Μακεδονία και Θράκη</item>
+          <item >Άγιος Ιωάννης Ρέντης, Αττική</item>
+          <item >Ταύρος, Αττική</item>
+          <item >Μενεμένη, Κεντρική Μακεδονία</item>
+          <item >Σπάρτη, Πελοπόννησος</item>
+          <item >Καστοριά, Δυτική Μακεδονία</item>
+          <item >Πανόραμα, Κεντρική Μακεδονία</item>
+          <item >Φλώρινα, Δυτική Μακεδονία</item>
+          <item >Νέα Μάκρη, Αττική</item>
+          <item >Γέρακας, Αττική</item>
+          <item >Ναύπλιο, Πελοπόννησος</item>
+          <item >Περαία, Κεντρική Μακεδονία</item>
+          <item >Αλεξάνδρεια, Κεντρική Μακεδονία</item>
+          <item >Παπάγος, Αττική</item>
+          <item >Δραπετσώνα, Αττική</item>
+          <item >Ναύπακτος, Δυτική Ελλάδα</item>
+          <item >Παιανία, Αττική</item>
+          <item >Παλλήνη, Αττική</item>
+          <item >Μεσολόγγι, Δυτική Ελλάδα</item>
+          <item >Καλύβια Θορικού, Αττική</item>
+          <item >Ωραιόκαστρο, Κεντρική Μακεδονία</item>
+          <item >Ερμούπολη, Νότιο Αιγαίο</item>
+          <item >Ιεράπετρα, Κρήτη</item>
+          <item >Νέα Αλικαρνασσός, Κρήτη</item>
+          <item >Λουτράκι, Πελοπόννησος</item>
+          <item >Θέρμη, Κεντρική Μακεδονία</item>
+          <item >Ραφήνα, Αττική</item>
+          <item >Τριανδρία, Κεντρική Μακεδονία</item>
+          <item >Ζάκυνθος, Ιόνια Νησιά</item>
+          <item >Υμηττός, Αττική</item>
+          <item >Τύρναβος</item>
+          <item >Βάρη, Αττική</item>
+          <item >Μάνδρα, Αττική</item>
+          <item >Παλαιό Ψυχικό, Αττική</item>
+          <item >Νέο Ψυχικό, Αττική</item>
+          <item >Γρεβενά, Δυτική Μακεδονία</item>
+          <item >Πόθια (ή Κάλυμνος), Νότιο Αιγαίο</item>
+          <item >Νέα Χαλκηδόνα, Αττική</item>
+          <item >Ιαλυσός, Νότιο Αιγαίο</item>
+          <item >Άγιος Νικόλαος, Κρήτη</item>
+
+          
+       
+    </string-array>
+    
+        
+        
+   
+</resources>

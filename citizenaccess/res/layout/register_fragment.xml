@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="3"
+    android:orientation="horizontal" >
+
+    <LinearLayout android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REGISTER" />
+
+        <EditText
+            android:id="@+id/editTextregname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/name"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/editTextreglastname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/lastname"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/editTextregmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/editTextregpass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="112dp"
+            android:ems="10"
+            android:hint="@string/pass"
+            android:inputType="textPassword" />
+
+        <TextView
+            android:id="@+id/textViewrerror"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/error" />
+
+    </LinearLayout>
+
+    <Space
+        android:layout_column="1"
+        android:layout_gravity="fill_vertical"
+        android:layout_row="4" />
+
+    <Button
+        android:id="@+id/buttonreg"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_column="2"
+        android:layout_gravity="left|center_vertical"
+        android:layout_row="0"
+        android:text="@string/REGISTER" />
+
+</GridLayout>
